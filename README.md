@@ -2,4 +2,4 @@
 
 ## Configure staticfiles, jinja templates, add bootstrap
 
-## [Video Tutorial](https://youtu.be/Bj3CZNfwWiA)
+## [Video Tutorial](https://youtu.be/7TrJo0R1P6M)
